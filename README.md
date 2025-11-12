@@ -10,21 +10,21 @@ Move to the folder
 ```
 cd ~/Desktop/Regsim
 ```
-If u have Intel Mac use Starter-intel script
+If you have Intel Mac, use Starter-intel script
 ```
 bash Starter-intel.sh
 ```
-If u have M1 or newer use Starter script
+If you have M1 or newer one, use Starter script
 ```
 bash Starter.sh
 ```
 
 # FAQ
-## Is this ur project ?
+## Is this your project ?
 No, I just updated files and added Fx libs so you can use it on MAC without VMs.
 
-## If i need any help with my assessment, will u help me ?
-If I have time I can give u some tips but I am not tutor.
+## If I need any help with my assessment, will you help me ?
+If I have time, I can give you some tips but I am not tutor.
 
 ## If I have any problem with program, what should I do ?
-If u found any problem with functions of program u can contact me through discord: mrtetris
+If you found any problem with functions of program, you can contact me through discord: mrtetris
